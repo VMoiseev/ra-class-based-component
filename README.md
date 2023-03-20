@@ -1,5 +1,5 @@
-
-## [Проект]()
+[![Build status](https://ci.appveyor.com/api/projects/status/2w76lsfu6h5c6tj4?svg=true)](https://ci.appveyor.com/project/VMoiseev/ra-class-based-component)
+## [Проект](https://vmoiseev.github.io/ra-class-based-component/)
 
 Страница интернет-магазина
 ===
