@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-class-based-component/static/css/main.7708711d.css",
+    "main.js": "/ra-class-based-component/static/js/main.3b775ee9.js",
+    "static/media/item-blue.jpg": "/ra-class-based-component/static/media/item-blue.2103f69bf3b1c8b44f34.jpg",
+    "static/media/item-black.jpg": "/ra-class-based-component/static/media/item-black.dd74251d47c485703b4d.jpg",
+    "index.html": "/ra-class-based-component/index.html",
+    "main.7708711d.css.map": "/ra-class-based-component/static/css/main.7708711d.css.map",
+    "main.3b775ee9.js.map": "/ra-class-based-component/static/js/main.3b775ee9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7708711d.css",
+    "static/js/main.3b775ee9.js"
+  ]
+}
