@@ -3,11 +3,6 @@ import PropTypes from "prop-types";
 import Item from "../Item";
 
 class ShopItemFunc extends React.Component {
-  // eslint-disable-next-line no-useless-constructor
-  constructor(props) {
-    super(props);
-  }
-  
   render() {
     const { item } = this.props;
     
